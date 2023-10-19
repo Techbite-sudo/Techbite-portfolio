@@ -12,7 +12,7 @@ function App() {
 
   const { theme } = useContext(ThemeContext);
 
-  console.log("%cACADEMIC WRITTER PORTFOLIO", `color:${theme.primary}; font-size:50px`);
+  console.log("%cTechbite's Portfolio", `color:${theme.primary}; font-size:50px`);
   console.log("%chttps://github.com/Techbite-sudo/academic-writter-portfolio.git", `color:${theme.tertiary}; font-size:20px`);
   // console.log = console.warn = console.error = () => {};
 
