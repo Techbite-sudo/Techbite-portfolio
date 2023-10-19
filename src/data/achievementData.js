@@ -3,8 +3,8 @@ export const achievementData = {
     achievements: [
         {
             id: 1,
-            title: 'Developed 20+ Web and Mobile Applications',
-            details: 'Successfully designed, developed, and deployed over 20 web and mobile applications, ranging from dynamic websites to feature-rich mobile apps.',
+            title: 'Developed 10+ Web and Mobile Applications',
+            details: 'Successfully designed, developed, and deployed over 10 web and mobile applications, ranging from dynamic websites to feature-rich mobile apps.',
             date: 'October 2020',
             field: 'Web & Mobile Development',
             image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'

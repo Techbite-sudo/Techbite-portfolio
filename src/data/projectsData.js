@@ -1,11 +1,11 @@
-import project1 from "../assets/svg/projects/project1.svg";
-import project2 from "../assets/svg/projects/project2.svg";
-import project3 from "../assets/svg/projects/project3.svg";
-import project4 from "../assets/svg/projects/project4.svg";
-import project5 from "../assets/svg/projects/project5.svg";
-import project6 from "../assets/svg/projects/project6.svg";
-import project7 from "../assets/svg/projects/project7.svg";
-import project8 from "../assets/svg/projects/project8.svg";
+import one from "../assets/svg/projects/one.svg";
+import two from "../assets/svg/projects/two.svg";
+import three from "../assets/svg/projects/three.svg";
+import four from "../assets/svg/projects/four.svg";
+import five from "../assets/svg/projects/five.svg";
+import six from "../assets/svg/projects/six.svg";
+import seven from "../assets/svg/projects/seven.svg";
+import eight from "../assets/svg/projects/eight.svg";
 
 export const projectsData = [
   {
@@ -16,7 +16,7 @@ export const projectsData = [
     tags: ["Web Development", "LMS", "Front-end", "Back-end"],
     code: "",
     demo: "",
-    image: project1,
+    image: one,
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ export const projectsData = [
     tags: ["Mobile App Development", "Android", "Kotlin", "Front-end"],
     code: "",
     demo: "",
-    image: project2,
+    image: two,
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ export const projectsData = [
     tags: ["Web Development", "E-commerce", "Front-end", "Back-end"],
     code: "",
     demo: "",
-    image: project3,
+    image: three,
   },
   {
     id: 4,
@@ -46,7 +46,7 @@ export const projectsData = [
     tags: ["Web Development", "E-commerce", "Admin Panel"],
     code: "",
     demo: "",
-    image: project4,
+    image: four,
   },
   {
     id: 5,
@@ -56,7 +56,7 @@ export const projectsData = [
     tags: ["Web Development", "Headless CMS", "Blog", "GraphQL"],
     code: "",
     demo: "",
-    image: project5,
+    image: five,
   },
   {
     id: 6,
@@ -66,7 +66,7 @@ export const projectsData = [
     tags: ["Web Development", "LMS", "Certificate Generation"],
     code: "",
     demo: "",
-    image: project6,
+    image: six,
   },
   {
     id: 7,
@@ -76,7 +76,7 @@ export const projectsData = [
     tags: ["Mobile App Development", "Financial Services", "STK Push"],
     code: "",
     demo: "",
-    image: project7,
+    image: seven,
   },
   {
     id: 8,
@@ -86,7 +86,7 @@ export const projectsData = [
     tags: ["AI", "Computer Vision", "Safety", "Machine Learning"],
     code: "",
     demo: "",
-    image: project8,
+    image: eight,
   },
 ];
 
