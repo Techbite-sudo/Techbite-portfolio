@@ -4,7 +4,7 @@ export const blogData = [
         title: 'The Art of Web and Mobile Development',
         description: 'In this blog post, I dive into the world of web and mobile development, sharing insights on best practices, tips, and the latest trends in JavaScript, React, Next.js, HTML, CSS, Kotlin, Jetpack Compose, Flutter, Golang, and more. Join me in exploring the art of crafting digital solutions that make an impact.',
         date: 'Aug 7, 2021',
-        image: 'https://example.com/image1.jpg', // Replace with an image related to web and mobile development
+        image: 'https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?size=626&ext=jpg&ga=GA1.2.386372595.1697587200&semt=ais', // Replace with an image related to web and mobile development
         url: 'https://yourblog.com/web-and-mobile-development'
     },
     {
@@ -12,7 +12,7 @@ export const blogData = [
         title: 'Mastering the Power of GraphQL',
         description: 'This blog post delves into the world of GraphQL and how it\'s transforming the way we build APIs. Learn about the advantages of using GraphQL for efficient data retrieval, how to set up a GraphQL server, and discover real-world use cases where GraphQL shines.',
         date: 'Sep 15, 2021',
-        image: 'https://example.com/image2.jpg', // Replace with an image related to GraphQL
+        image: 'https://res.cloudinary.com/practicaldev/image/fetch/s--w9Mor0Va--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pw9slegdfv9e1kbqbnf5.png', // Replace with an image related to GraphQL
         url: 'https://yourblog.com/mastering-graphql'
     },
     {
@@ -20,7 +20,7 @@ export const blogData = [
         title: 'Optimizing Database Performance with PostgreSQL',
         description: 'In this post, I explore the art of database optimization with PostgreSQL. Discover best practices for structuring your database, indexing, and querying techniques to ensure your web and mobile applications run efficiently and provide a seamless user experience.',
         date: 'Oct 20, 2021',
-        image: 'https://example.com/image3.jpg', // Replace with an image related to database optimization
+        image: 'https://wpastra.com/wp-content/uploads/2020/04/keep-your-database-optimized.jpg', // Replace with an image related to database optimization
         url: 'https://yourblog.com/postgresql-database-optimization'
     },
     {
@@ -28,7 +28,7 @@ export const blogData = [
         title: 'The Power of Tailwind CSS in Front-End Development',
         description: 'Tailwind CSS has taken the front-end development world by storm. Join me in exploring the power of utility-first CSS and learn how to create responsive, beautifully styled websites with Tailwind CSS. Discover tips, tricks, and real-world examples.',
         date: 'Nov 10, 2021',
-        image: 'https://example.com/image4.jpg', // Replace with an image related to Tailwind CSS
+        image: 'https://tailwindcss.com/_next/static/media/tailwindui-small@75.8bb955b2.jpg', // Replace with an image related to Tailwind CSS
         url: 'https://yourblog.com/power-of-tailwind-css'
     },
     {
@@ -36,7 +36,7 @@ export const blogData = [
         title: 'Building Full-Stack Apps with React and Golang',
         description: 'Learn how to build full-stack web applications using the dynamic duo of React and Golang. Explore the architecture, set up a RESTful API, and create a seamless user experience by connecting the front-end and back-end with these powerful technologies.',
         date: 'Dec 5, 2021',
-        image: 'https://example.com/image5.jpg', // Replace with an image related to React and Golang
+        image: 'https://res.cloudinary.com/practicaldev/image/fetch/s--HOXpPNDw--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1xofa8chbq27ozlle2jw.png', // Replace with an image related to React and Golang
         url: 'https://yourblog.com/react-golang-full-stack'
     },
 ]
