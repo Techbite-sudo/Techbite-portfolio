@@ -20,6 +20,13 @@ export const experienceData = [
         startYear: '2023', // Replace with the actual start year
         endYear: '2023', // Use "Present" for your current position
     },
+    {
+        id: 4,
+        company: 'Nouns DAO',
+        jobtitle: 'Front-end  Developer',
+        startYear: '2022', // Replace with the actual start year
+        endYear: '2022', // Use "Present" for your current position
+    },
 ]
 
 
