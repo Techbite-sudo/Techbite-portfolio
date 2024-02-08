@@ -8,17 +8,17 @@ export const experienceData = [
     },
     {
         id: 2,
-        company: 'Ngamea Games',
+        company: 'Adanian Labs (Ngamea Games)',
         jobtitle: 'Backend and Frontend Developer for AYTP LMS System',
         startYear: '2022', // Replace with the actual start year
-        endYear: 'Present', // Replace with the actual end year
+        endYear: '2023', // Replace with the actual end year
     },
     {
         id: 3,
-        company: 'Navi Softwares',
-        jobtitle: 'Mobile Android Developer',
-        startYear: '2021', // Replace with the actual start year
-        endYear: '2022', // Use "Present" for your current position
+        company: 'TENN Explorations',
+        jobtitle: 'Backend  Developer',
+        startYear: '2023', // Replace with the actual start year
+        endYear: '2023', // Use "Present" for your current position
     },
 ]
 
